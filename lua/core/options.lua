@@ -14,6 +14,7 @@ opt.wrap = true
 
 -- 光标行
 opt.cursorline = false
+opt.cursorcolumn = false
 
 -- 鼠标
 opt.mouse:append("a")
